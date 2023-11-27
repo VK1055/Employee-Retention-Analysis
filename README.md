@@ -43,7 +43,7 @@ The primary objective of this study is to perform an extensive analysis to ident
    - The average score of 2.5 suggests a middling satisfaction level among employees regarding their work-life balance within their job roles.
 
 
-3) Impact of Commuting time
+3) **Impact of Commuting time
 
 - **Description** - The analysis aims to understand the impact of commuting time on employee satisfaction and productivity.
 
