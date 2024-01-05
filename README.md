@@ -5,7 +5,10 @@ The primary objective of this study is to perform an extensive analysis to ident
 
 ## Tools Used
 - **Microsoft Excel** - Utilized Power Query in Microsoft Excel for meticulous data cleaning. Addressed inconsistencies, removed duplicates, handled missing values, and standardized data formats.
+  
 - **SQL** - Employed SQL queries and scripts to perform exploratory data analysis and generate key performance indicators
+  > SQL code link :- [Employee Retention Analysis SQL File](https://github.com/VK1055/Employee-Retention-Analysis/blob/main/SQL%20PR210.sql)
+  
 - **PowerBi** - Developed interactive visualizations using Power BI to effectively communicate insights to stakeholders.
 
 ## **Dashboard**
@@ -15,7 +18,7 @@ The primary objective of this study is to perform an extensive analysis to ident
 
 
 
-## EDA
+## Exploratory Data Analysis
 
 1) **Attrition Rate for All Departments**
  
